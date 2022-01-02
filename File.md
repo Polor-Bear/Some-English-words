@@ -7,12 +7,12 @@
 6. Choose		  选择
 7. Choice		  选择
 8. Control		  控制
-Crete		    创建
-Current		  当前的
-Custom	  	自定义
-Delay		    延迟
-Drain		    消耗
-Enemy		    敌人
+9. Crete		    创建
+10. Current		  当前的
+11. Custom	  	自定义
+12. Delay		    延迟
+13. Drain		    消耗
+14. Enemy		    敌人
 Event		    事件
 Example		  案例
 Function	  函数
