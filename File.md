@@ -4,9 +4,9 @@
 3. Branch		  分支
 4. Char		    字符
 5. Character	  角色/字符
-Choose		  选择
-Choice		  选择
-Control		  控制
+6. Choose		  选择
+7. Choice		  选择
+8. Control		  控制
 Crete		    创建
 Current		  当前的
 Custom	  	自定义
