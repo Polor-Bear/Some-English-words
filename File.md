@@ -1,9 +1,9 @@
 # Words
-Action		  行为/动作
-Animation	  动画
-Branch		  分支
-Char		    字符
-Character	  角色/字符
+1. Action		  行为/动作
+2. Animation	  动画
+3. Branch		  分支
+4. Char		    字符
+5. Character	  角色/字符
 Choose		  选择
 Choice		  选择
 Control		  控制
