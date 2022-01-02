@@ -2,7 +2,7 @@
 Action		行为/动作
 Animation	动画
 Branch		分支
-Char		字符
+Char		  字符
 Character	角色/字符
 Choose		选择
 Choice		选择
