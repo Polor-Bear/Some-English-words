@@ -1,39 +1,9 @@
 # Words
-Action		行为/动作
-Animation	动画
-Branch		分支
-Char		  字符
-Character	角色/字符
-Choose		选择
-Choice		选择
-Control		控制
-Crete		创建
-Current		当前的
-Custom		自定义
-Delay		延迟
-Drain		消耗
-Enemy		敌人
-Event		事件
-Example		案例
-Function	函数
-Location	位置
-Mesh		网格
-Modeling	模型
-Movement	移动
-Normal		正常
-Overlap		重叠
-Parent		父(类)
-Patrol		巡逻
-Phrase		短语
-Port		接口
-Projectile	炮弹/弹射物
-Rendering	渲染
-Select		选择
-Sprint		冲刺/(加速)跑
-Stamina		耐力
-Transform	变换
-Variable	变量
-Vector		矢量/向量
-View		视图
-Volume		体积
-Widget		控件
+
+|word|mine|blabla|
+|-|-|-|
+|action|行为|n. 行动；行为；战斗；诉讼；<非正式>令人激动的事；动作；情节；惊险刺激的活动（或事件）；作用；开始（电影导演开拍的指令）；赚钱的机会；性交；运转方式
+v. 处理
+adj. 动作（片）的，动作片中的
+【名】 （Action）（英）埃克申（人名）
+[ 复数 actions 第三人称单数 actions 现在分词 actioning 过去式 actioned 过去分词 actioned ]
